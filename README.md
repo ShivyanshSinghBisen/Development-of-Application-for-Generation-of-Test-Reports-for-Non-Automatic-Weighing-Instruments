@@ -1,0 +1,2 @@
+# Development-of-Application-for-Generation-of-Test-Reports-for-Non-Automatic-Weighing-Instruments
+As India acts as an OIML issuing authority managing global standard certifications, the manual compilation of compliance data for weighing instruments remains cumbersome. The goal is to create an automated software platform to streamline testing workflows and generate official, tamper-proof reports for Non-Automatic Weighing Instruments with OIML .
